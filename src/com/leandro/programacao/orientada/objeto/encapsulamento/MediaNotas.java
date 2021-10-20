@@ -1,4 +1,4 @@
-package com.leandro;
+package com.leandro.programacao.orientada.objeto.encapsulamento;
 
 import javax.swing.*;
 import java.util.ArrayList;
